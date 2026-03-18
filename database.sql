@@ -82,7 +82,7 @@ CREATE TABLE order_items (
 -- Sample Food Data
 INSERT INTO foods (name, description, price, category, image_url) VALUES
 -- Original Items
-('Coca Cola', '400ml Cold Bottle', 40.00, 'Beverages', 'https://images.unsplash.com/photo-1554866585-cd94860890b7?w=300&q=80'),
+('Coca Cola', '400ml Cold Bottle', 40.00, 'Beverages', 'https://unsplash.com/photos/coca-cola-can-z8PEoNIlGlg?w=300&q=80'),
 ('Cold Coffee', 'Creamy Iced Coffee', 89.00, 'Coffee & Drinks', 'https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=300&q=80'),
 ('Matcha Latte', 'Organic Green Tea', 99.00, 'Coffee & Drinks', 'https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=300&q=80'),
 ('Signature Cold Brew', '12-hour Steeped', 89.00, 'Coffee & Drinks', 'https://images.unsplash.com/photo-1481833761820-0509d3217039?w=300&q=80'),
