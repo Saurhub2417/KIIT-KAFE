@@ -123,7 +123,7 @@ INSERT INTO foods (name, description, price, category, image_url) VALUES
 ('Fruit Salad', 'Fresh Seasonal Fruits', 80.00, 'Desserts', 'https://images.unsplash.com/photo-1519915028121-7d3463d20b13?w=300&q=80'),
 -- Meals
 ('Veg Thali', 'Complete Indian Meal', 180.00, 'Meals', 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=300&q=80'),
-('Chicken Biryani', 'Hyderabadi Style', 200.00, 'Meals', 'https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=300&q=80'),
+('Chicken Biryani', 'Hyderabadi Style', 200.00, 'Meals', 'https://images.unsplash.com/photo-1697155406055-2db32d47ca07?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMGJpcnlhbmklMjAlNUN8ZW58MHx8MHx8fDA%3D?w=300&q=80'),
 ('Veg Fried Rice', 'Indo-Chinese Style', 140.00, 'Meals', 'https://images.unsplash.com/photo-1603133832894-0267195e09b5?w=300&q=80'),
 ('Egg Fried Rice', 'With Scrambled Eggs', 150.00, 'Meals', 'https://images.unsplash.com/photo-1603133832894-0267195e09b5?w=300&q=80'),
 ('Chicken Fried Rice', 'Classic Chinese', 170.00, 'Meals', 'https://images.unsplash.com/photo-1603133832894-0267195e09b5?w=300&q=80'),
